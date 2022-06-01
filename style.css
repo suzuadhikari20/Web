@@ -126,17 +126,7 @@ body div p{
     padding-left: 400px;
     padding-right: 400px;
 }
-.container{
-    background-image: url('./background.JPG');
-    background-attachment: fixed;
-}
-.small{
-    height: 400px;
-    width:500px;
-    padding-top: 30px;
-    padding-left: 30px;
-    padding-right: 30px;
-}
+
 .contact{
     
     background-image: url('./img7.jpg');
